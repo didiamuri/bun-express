@@ -1,4 +1,4 @@
-# 🧪 Bun + Express Benchmark Test
+## 🧪 Bun + Express Benchmark Test
 
 #### This test aimed to compare the performance and integration of Bun with an existing Node.js backend stack built with Express, Inversify, MongoDB, and Redis. The backend is a REST API microservice for the AnywrPOS platform.
 
