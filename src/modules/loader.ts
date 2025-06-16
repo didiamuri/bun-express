@@ -1,1 +1,1 @@
-import './system/health.controller.ts'
+import './health/health.controller.ts'
